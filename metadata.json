@@ -1,0 +1,6 @@
+{
+  "name": "Village Road Network Optimizer",
+  "description": "Determine minimum cost road connectivity across villages using Kruskal's Algorithm and interactive graph visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
